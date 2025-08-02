@@ -1,6 +1,6 @@
 {
   "appId": "com.collmot.skybrush.live",
-  "productName": "XAG GCS",
+  "productName": "XAG Swarm GCS",
 
   "artifactName": "${productName} ${version}.${ext}",
 
